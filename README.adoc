@@ -1,6 +1,6 @@
-= Buzzer Library for Arduino =
+= LED Library for Arduino =
 
-This library allows an Arduino board to control Buzzers.
+This library allows an Arduino board to control LEDs.
 
 For more information about this library please visit it at
 https://github.com/gmarty2000/arduino-BUZZER/wiki
