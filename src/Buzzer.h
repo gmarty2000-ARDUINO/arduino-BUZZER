@@ -1,5 +1,5 @@
-#ifndef __LED_h
-#define __LED_h
+#ifndef __BUZZER_h
+#define __BUZZER_h
 
 #include "Arduino.h"
 #include "utility/pitches.h"
